@@ -266,3 +266,5 @@ Princípios:
  ├── fontes-notebooklm.png
  ├── prompt-exemplo.png
  └── resposta-gerada.png
+
+assets/imagens/README.md
